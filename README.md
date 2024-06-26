@@ -72,3 +72,29 @@ Here are some of the technologies I've worked with:
 <div align="center">
   <img src="https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Graph"/>
 </div>
+
+## Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fatmaatta" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://dribbble.com/FatmaAtta" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.behance.net/fatmaatta_" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"/>
+  </a>
+  <a href="https://x.com/fatmaatta_" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+    <a href="mailto:fatmamaali@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/fatmamaali" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+
+
