@@ -69,5 +69,3 @@ Here are some of the technologies I've worked with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAtta&theme=tokyonight" alt="Top Langs"/>
 </div>
 
-
-![snake gif](https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg)
