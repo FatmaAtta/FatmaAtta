@@ -1,15 +1,6 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=7851A9&background=FFFEFE00&vCenter=true&random=false&width=500&height=60&lines=Hello%F0%9F%91%8B%2C+I'm+Fatma+Atta;A+Full-Stack+Web+and+Mobile+App+Developer" alt="Typing SVG" /></a>
-
-
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAtta&theme=tokyonight" alt="Top Langs"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=FatmaAtta&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=7851A9&background=FFFEFE00&vCenter=true&random=false&width=500&height=60&lines=Hello%F0%9F%91%8B%2C+I'm+Fatma+Atta;A+Full-Stack+Web+and+Mobile+App+Developer" alt="Typing SVG" />
+</a>
 
 ## Technologies Used
 
@@ -55,7 +46,28 @@ Here are some of the technologies I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/FatmaAtta">
+        <img src="https://github-readme-stats.vercel.app/api?username=FatmaAtta&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/FatmaAtta">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatmaAtta&theme=tokyonight" alt="GitHub Streak Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Most Used Languages
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAtta&theme=tokyonight" alt="Top Langs"/>
+</div>
 
 
-
-<!--![snake gif](https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg)
