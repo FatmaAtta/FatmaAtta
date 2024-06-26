@@ -59,6 +59,8 @@
 
 ###
 -->
-github-contribution-grid-snake.svg
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=7851A9&background=FFFEFE00&vCenter=true&random=false&width=500&height=60&lines=Hello%F0%9F%91%8B%2C+I'm+Fatma+Atta;A+Full-Stack+Web+and+Mobile+App+Developer" alt="Typing SVG" /></a>
 
-![snake gif](https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--![snake gif](https://github.com/FatmaAtta/FatmaAtta/blob/output/github-contribution-grid-snake.svg)-->
