@@ -99,4 +99,10 @@ Here are some of the technologies I've worked with:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 
+  
+## Daily Dev
+
+<div align="center">
+  <a href="https://app.daily.dev/fatmaatta"><img src="https://api.daily.dev/devcards/v2/jtq0mrykrybS4MaXAQCsC.png?type=default&r=ac4" width="356" alt="Fatma Atta's Dev Card"/></a>
+</div>
 
