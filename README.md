@@ -31,17 +31,17 @@ Here are some of the technologies that I've worked with:
   
   <!-- Data Science and AI Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="80" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="80" alt="Scikit-learn" />
+  <img src="/assets/scikit.png" height="80" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="80" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="80" alt="OpenCV" />
-  <img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" height="80" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Google_Colab_logo_2021.svg/800px-Google_Colab_logo_2021.svg.png" height="80" alt="Google Colab" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" height="80" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pandas_logo.svg/512px-Pandas_logo.svg.png" height="80" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Matplotlib_logo.svg/1024px-Matplotlib_logo.svg.png" height="80" alt="Matplotlib" />
+  <img src="assets/jupyter.png" height="80" alt="Jupyter" />
+  <img src="assets/colab.png" height="80" alt="Google Colab" />
+  <img src="assets/numpy.png" height="80" alt="NumPy" />
+  <img src="assets/pandas.svg" height="80" alt="Pandas" />
+  <img src="assets/matplotlib.svg" height="80" alt="Matplotlib" />
   
   <!-- Robotics Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Webots_logo.svg/1200px-Webots_logo.svg.png" height="80" alt="Webots" />
+  <img src="assets/webot.png" height="80" alt="Webots" />
 </p>
 
 ## GitHub Stats
