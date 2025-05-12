@@ -25,15 +25,15 @@ Here are some of the technologies that I've worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="MySQL" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
   <br> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="80" alt="npm" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="80" alt="npm" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Additional Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="VSCode" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" alt="Figma" /> &nbsp;&nbsp;&nbsp;
   <!-- Data Science and AI Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="80" alt="TensorFlow" /> &nbsp;&nbsp;&nbsp;
   <img src="/assets/scikit.png" height="80" alt="Scikit-learn" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="80" alt="Keras" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="80" alt="OpenCV" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="80" alt="Keras" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="80" alt="OpenCV" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/jupyter.png" height="80" alt="Jupyter" /> &nbsp;&nbsp;&nbsp;
   <br>
   <img src="assets/colab.png" height="80" alt="Google Colab" />
