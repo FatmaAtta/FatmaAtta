@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=60&duration=1200&pause=100&color=ff99ff&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Hello%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Fatma+Atta%2C; ;A+Full-Stack+Mobile+and+Web+App+Developer" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet&duration=3000&pause=500&color=833DF7&multiline=true&width=435&height=100&lines=Hi+there!+I'm+Fatma+Atta+%F0%9F%91%8B;AI+and+Software+Engineer." alt="Typing SVG" /></a>
 ## Technologies Used
 
 Here are some of the technologies that I've worked with:
