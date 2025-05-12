@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet&size=25&duration=1500&color=833DF7&vCenter=true&multiline=true&width=435&height=100&lines=Hi+there!+I'm+Fatma+Atta+%F0%9F%91%8B;+;AI+and+Software+Engineer." alt="Typing SVG" /></a>
-## Technologies Used
+<h1 align="center">Technologies Used </h1>
+<h3 align="center">Here are some of the technologies that I've worked with: </h3><br>
 
-Here are some of the technologies that I've worked with:
+
 
 <p align="center">
   <!-- Existing Stack -->
@@ -43,7 +44,8 @@ Here are some of the technologies that I've worked with:
   <img src="assets/webot.png" height="80" alt="Webots" /> &nbsp;&nbsp;&nbsp;
 </p>
 
-## GitHub Stats
+<h1 align="center">GitHub Stats </h1>
+
 
 <table>
   <tr>
@@ -60,14 +62,15 @@ Here are some of the technologies that I've worked with:
   </tr>
 </table>
 
-## Most Used Languages
+<h1 align="center">Most Used Languages </h1>
+
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAtta&theme=tokyonight" alt="Top Langs"/>
 </div>
 
+<h1 align="center">Connect with Me </h1>
 
-## Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fatmaatta" target="_blank">
