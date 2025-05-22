@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet&size=25&duration=1500&color=833DF7&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there!+I'm+Fatma+Atta+%F0%9F%91%8B;+;AI+and+Software+Engineer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet&size=30&duration=1500&color=833DF7&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there!+I'm+Fatma+Atta+%F0%9F%91%8B;+;AI+and+Software+Engineer." alt="Typing SVG" /></a>
 <h1 align="center">Technologies Used </h1>
 <h3 align="center">Here are some of the technologies that I've worked with: </h3><br>
 
